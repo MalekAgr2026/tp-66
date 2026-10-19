@@ -1,0 +1,145 @@
+/* Mise en forme générale */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Navigation */
+nav {
+    background-color: #202c45;
+    color: white;
+    padding: 15px;
+    position: relative;
+}
+
+.logo {
+    display: inline-block;
+    margin: 5px 30px 5px 10px;
+    color: #ffb347;
+}
+
+
+
+/* Section accueil */
+header {
+    background-color: #ffe5d9;
+    text-align: center;
+    padding: 60px 20px;
+    position: relative;
+}
+
+
+
+
+
+
+/* Titres */
+.titre {
+    text-align: center;
+    margin: 35px 0 25px;
+    color: #202c45;
+}
+
+/* Boxes produits */
+
+
+/* Catégories */
+
+/* Formulaire */
+form {
+    width: 60%;
+    margin: 20px auto 40px;
+    padding: 25px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px #ccc;
+    position: relative;
+}
+
+
+
+/* Pied de page */
+footer {
+    background-color: #202c45;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
+.A{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+.p{
+    background-color: orangered;
+    color: white;
+    height: 60px;
+    width: 260px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+}
+.k {
+    height: 70px;
+    width: 280px;
+    display: inline-block;
+    margin: 110px;
+    box-shadow: 0 0 40px;
+    margin-bottom: 500px;
+
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+.b {
+    border-left:3px solid orangered;
+    margin-left: 120px;
+}
+table, tr, td, th{
+    border: 2px solid black;
+    height: 60px;
+    width: 1500px;
+    margin-left: 90px;
+    border-collapse: collapse;
+}
+.f{
+    color: orangered;
+}
+.ti{
+    color: #202c45;
+    font-size: large;
+}
+.L{
+    background-color: #202c45;
+    color: white;
+}
+tr  :hover{
+    background-color: #333;
+    color: red;
+
+}
+.d{
+    margin-left: 150px;
+}
+.q{
+    width: 1000px;
+    height: 35px;
+    color: gray;
+}
+.bt{
+    margin-left: 500px;
+    background-color: orangered;
+    color: white;
+    height: 60px;
+    width: 260px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    background-color: #f4f4f4;
+}
